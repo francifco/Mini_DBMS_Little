@@ -1,0 +1,9 @@
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\bin\Debug\SQL-Franci.exe.config
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\bin\Debug\SQL-Franci.exe
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\bin\Debug\SQL-Franci.pdb
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\obj\Debug\SQL-Franci.csprojResolveAssemblyReference.cache
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\obj\Debug\SQL_Franci.WinSQL.resources
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\obj\Debug\SQL_Franci.Properties.Resources.resources
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\obj\Debug\SQL-Franci.csproj.GenerateResource.Cache
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\obj\Debug\SQL-Franci.exe
+C:\Users\f.suero\Desktop\Primer proyecto Base de Datos\SQL-Franci\SQL-Franci\obj\Debug\SQL-Franci.pdb
